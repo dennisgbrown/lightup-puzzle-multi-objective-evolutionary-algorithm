@@ -1,7 +1,13 @@
 # README for COMP 6666 Fall 2020 Assignment 1d
 Dennis Brown / dgb0028@auburn.edu / 11 OCT 2020
 
-## Overview & Usage
+## Overview 
+
+Multi-objective evolutionary algorithm to play the [Light Up puzzle game](https://en.wikipedia.org/wiki/Light_Up_(puzzle)).
+
+See the [project report](https://github.com/dennisgbrown/comp6666-lightup-moea/blob/master/assignment1d_report.pdf) for more context.
+
+## Usage
 
 Code was written in Python 3 and is all in the "code" folder.
 
